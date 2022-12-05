@@ -26,3 +26,4 @@ The following guides illustrate how to use some features concretely:
 
 ### Estado del código
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=redegal&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=redegal)
+[![CI](https://github.com/polfc21/redegal/actions/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/polfc21/redegal/actions/workflows/ci.yml)
